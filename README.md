@@ -4,7 +4,7 @@ Atualmente curso Engenharia de Software e possuo conhecimento em HTML, CSS e Jav
 
 ## 📊 Minhas Estatísticas no GitHub
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brulindner&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=brulindner&layout=compact&theme=dracula&cache_seconds=1800)
 
 ## 💻 Tecnologias e Ferramentas
 
