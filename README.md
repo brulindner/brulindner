@@ -2,9 +2,6 @@
 
 Atualmente curso Engenharia de Software e possuo conhecimento em HTML, CSS e JavaScript. Recentemente, tenho me dedicado ao aprendizado da plataforma .NET, desenvolvendo projetos em C#, área pela qual estou me interessando cada vez mais.
 
-## 📊 Minhas Estatísticas no GitHub
-
-[Linguagens mais usadas](https://github-readme-stats.vercel.app/api?username=brulindner)]
 
 ## 💻 Tecnologias e Ferramentas
 
