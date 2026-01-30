@@ -5,7 +5,7 @@ I have **basic knowledge of HTML, CSS, and JavaScript**, but lately, I have been
 
 ---
 
-### Oii, eu sou a Bruna! 🇧🇷
+### Oii, eu sou a Bruna!
 
 Atualmente curso Engenharia de Software e possuo conhecimento em HTML, CSS e JavaScript. Recentemente, tenho me dedicado ao aprendizado da plataforma .NET, desenvolvendo projetos em C#, área pela qual estou me interessando cada vez mais.
 
