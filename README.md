@@ -1,13 +1,13 @@
 # Hi there, I'm Bruna! 👋
 
 I am currently a **Software Engineering student** building my path in technology.
-I have **basic knowledge of HTML, CSS, and JavaScript**, but lately, I have been dedicating myself to the **.NET platform**, developing projects in **C#**—an area I am increasingly passionate about.
+I have **basic knowledge of HTML, CSS, and JavaScript**
 
 ---
 
 ### Oii, eu sou a Bruna!
 
-Atualmente curso Engenharia de Software e possuo conhecimento em HTML, CSS e JavaScript. Recentemente, tenho me dedicado ao aprendizado da plataforma .NET, desenvolvendo projetos em C#, área pela qual estou me interessando cada vez mais.
+Atualmente curso Engenharia de Software e possuo conhecimento em HTML, CSS e JavaScript.
 
 <br>
 
