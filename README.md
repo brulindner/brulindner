@@ -18,13 +18,6 @@ Atualmente estou focada em construir uma base sólida no ecossistema JavaScript.
 
 ---
 
-### 📊 Linguagens mais utilizadas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brulindner&layout=compact&langs_count=7&theme=tokyonight&hide=csharp"/>
-</p>
-
----
-
 ### 🛠 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
